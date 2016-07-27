@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\bin\Debug\_7.BalancedParentheses.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\bin\Debug\_7.BalancedParentheses.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\bin\Debug\_7.BalancedParentheses.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\obj\Debug\7. BalancedParentheses.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\obj\Debug\_7.BalancedParentheses.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\7. BalancedParentheses\obj\Debug\_7.BalancedParentheses.pdb

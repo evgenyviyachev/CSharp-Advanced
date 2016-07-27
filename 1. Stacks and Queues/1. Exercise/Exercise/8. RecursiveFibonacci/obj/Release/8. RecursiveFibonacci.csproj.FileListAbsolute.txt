@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\bin\Release\_8.RecursiveFibonacci.exe.config

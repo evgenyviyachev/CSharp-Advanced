@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\bin\Debug\_5.QueueSequence.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\bin\Debug\_5.QueueSequence.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\bin\Debug\_5.QueueSequence.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\obj\Debug\5. QueueSequence.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\obj\Debug\_5.QueueSequence.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\5. QueueSequence\obj\Debug\_5.QueueSequence.pdb

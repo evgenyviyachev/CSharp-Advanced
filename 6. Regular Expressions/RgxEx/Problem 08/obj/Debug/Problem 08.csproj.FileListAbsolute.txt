@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\6. Regular Expressions\RgxEx\Problem 08\bin\Debug\Problem 08.exe.config

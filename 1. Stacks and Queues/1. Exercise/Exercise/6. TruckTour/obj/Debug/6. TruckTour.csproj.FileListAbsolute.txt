@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\bin\Debug\_6.TruckTour.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\bin\Debug\_6.TruckTour.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\bin\Debug\_6.TruckTour.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\obj\Debug\6. TruckTour.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\obj\Debug\_6.TruckTour.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\6. TruckTour\obj\Debug\_6.TruckTour.pdb

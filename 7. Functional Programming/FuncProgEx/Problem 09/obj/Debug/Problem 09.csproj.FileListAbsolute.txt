@@ -1,0 +1,5 @@
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 09\bin\Debug\Problem 09.exe.config
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 09\bin\Debug\Problem 09.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 09\bin\Debug\Problem 09.pdb
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 09\obj\Debug\Problem 09.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 09\obj\Debug\Problem 09.pdb

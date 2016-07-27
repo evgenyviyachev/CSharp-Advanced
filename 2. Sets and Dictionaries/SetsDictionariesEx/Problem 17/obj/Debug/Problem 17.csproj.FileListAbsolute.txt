@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\bin\Debug\Problem 17.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\bin\Debug\Problem 17.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\bin\Debug\Problem 17.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\obj\Debug\Problem 17.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\obj\Debug\Problem 17.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 17\obj\Debug\Problem 17.pdb

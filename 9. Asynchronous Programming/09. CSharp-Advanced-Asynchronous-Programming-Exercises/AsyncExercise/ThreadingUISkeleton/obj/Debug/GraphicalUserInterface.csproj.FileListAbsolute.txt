@@ -1,0 +1,15 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\bin\Debug\ThreadingUI.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\bin\Debug\ThreadingUI.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\bin\Debug\ThreadingUI.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\GraphicalUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\GraphicalUserInterface.SimpleForm.resources
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.Properties.Resources.resources
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\GraphicalUserInterface.csproj.GenerateResource.Cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.pdb
+C:\Users\Maika\Desktop\SoftUniStrikeTeam\neshto\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\bin\Debug\ThreadingUI.exe.config
+C:\Users\Maika\Desktop\SoftUniStrikeTeam\neshto\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.exe
+C:\Users\Maika\Desktop\SoftUniStrikeTeam\neshto\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\9. Asynchronous Programming\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\bin\Debug\ThreadingUI.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\9. Asynchronous Programming\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\9. Asynchronous Programming\09. CSharp-Advanced-Asynchronous-Programming-Exercises\AsyncExercise\ThreadingUISkeleton\obj\Debug\ThreadingUI.pdb

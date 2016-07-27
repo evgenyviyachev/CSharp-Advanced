@@ -1,0 +1,12 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\Sony\Desktop\evgeni\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache

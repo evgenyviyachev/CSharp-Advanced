@@ -1,0 +1,6 @@
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\bin\Debug\Problem 10.exe.config
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\bin\Debug\Problem 10.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\bin\Debug\Problem 10.pdb
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\obj\Debug\Problem 10.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\obj\Debug\Problem 10.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 10\obj\Debug\Problem 10.pdb

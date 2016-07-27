@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\2. BasicOperations\bin\Debug\_2.BasicOperations.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\2. BasicOperations\bin\Debug\_2.BasicOperations.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\2. BasicOperations\bin\Debug\_2.BasicOperations.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\2. BasicOperations\obj\Debug\_2.BasicOperations.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\2. BasicOperations\obj\Debug\_2.BasicOperations.pdb

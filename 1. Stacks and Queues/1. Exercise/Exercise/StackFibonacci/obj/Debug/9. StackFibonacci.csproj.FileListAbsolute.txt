@@ -1,0 +1,3 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\StackFibonacci\bin\Debug\StackFibonacci.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\StackFibonacci\obj\Debug\StackFibonacci.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\StackFibonacci\obj\Debug\StackFibonacci.pdb

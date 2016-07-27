@@ -1,0 +1,6 @@
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\obj\Debug\SimpleJudge.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Maika\Documents\Visual Studio 2015\Projects\FilesAndStream\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

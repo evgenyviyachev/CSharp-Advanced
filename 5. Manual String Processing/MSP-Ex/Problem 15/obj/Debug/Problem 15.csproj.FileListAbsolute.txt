@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\bin\Debug\Problem 15.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\bin\Debug\Problem 15.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\bin\Debug\Problem 15.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\obj\Debug\Problem 15.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\obj\Debug\Problem 15.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 15\obj\Debug\Problem 15.pdb

@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\bin\Debug\_3.MaximumElement.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\bin\Debug\_3.MaximumElement.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\bin\Debug\_3.MaximumElement.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\obj\Debug\3. MaximumElement.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\obj\Debug\_3.MaximumElement.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\3. MaximumElement\obj\Debug\_3.MaximumElement.pdb

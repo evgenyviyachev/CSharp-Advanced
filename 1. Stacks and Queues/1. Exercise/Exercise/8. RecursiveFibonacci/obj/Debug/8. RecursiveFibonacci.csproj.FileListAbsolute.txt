@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\bin\Debug\_8.RecursiveFibonacci.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\bin\Debug\_8.RecursiveFibonacci.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\bin\Debug\_8.RecursiveFibonacci.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\obj\Debug\8. RecursiveFibonacci.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\obj\Debug\_8.RecursiveFibonacci.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\1. Stacks and Queues\1. Exercise\Exercise\8. RecursiveFibonacci\obj\Debug\_8.RecursiveFibonacci.pdb

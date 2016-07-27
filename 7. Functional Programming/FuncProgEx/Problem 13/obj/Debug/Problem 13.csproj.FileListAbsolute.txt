@@ -1,0 +1,6 @@
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\bin\Debug\Problem 13.exe.config
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\bin\Debug\Problem 13.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\bin\Debug\Problem 13.pdb
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\obj\Debug\Problem 13.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\obj\Debug\Problem 13.exe
+C:\Users\Sony\Desktop\evgeni\FuncProgEx\Problem 13\obj\Debug\Problem 13.pdb

@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\bin\Debug\SetsDictionariesEx.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\bin\Debug\SetsDictionariesEx.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\bin\Debug\SetsDictionariesEx.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\obj\Debug\SetsDictionariesEx.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\obj\Debug\SetsDictionariesEx.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\SetsDictionariesEx\obj\Debug\SetsDictionariesEx.pdb

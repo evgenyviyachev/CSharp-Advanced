@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\bin\Debug\Problem 18.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\bin\Debug\Problem 18.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\bin\Debug\Problem 18.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\obj\Debug\Problem 18.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\obj\Debug\Problem 18.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\2. Sets and Dictionaries\SetsDictionariesEx\Problem 18\obj\Debug\Problem 18.pdb

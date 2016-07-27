@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\8. LINQ\LINQ-Ex\Problem 03\bin\Debug\Problem 03.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\8. LINQ\LINQ-Ex\Problem 03\bin\Debug\Problem 03.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\8. LINQ\LINQ-Ex\Problem 03\bin\Debug\Problem 03.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\8. LINQ\LINQ-Ex\Problem 03\obj\Debug\Problem 03.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\8. LINQ\LINQ-Ex\Problem 03\obj\Debug\Problem 03.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 14\bin\Debug\Problem 14.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 14\bin\Debug\Problem 14.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 14\bin\Debug\Problem 14.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 14\obj\Debug\Problem 14.exe
+C:\SoftUni\#1 Programming Fundamentals\C# Advanced\5. Manual String Processing\MSP-Ex\Problem 14\obj\Debug\Problem 14.pdb
